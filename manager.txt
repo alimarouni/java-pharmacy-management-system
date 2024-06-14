@@ -1,0 +1,7 @@
+Manager Details:
+
+fname: gry
+lname: evfy
+age: 33
+Address:
+ streetAddress: egdy   | city: gyg   | State: \gey

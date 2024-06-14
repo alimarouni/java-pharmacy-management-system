@@ -1,0 +1,5 @@
+Pharmacy detials:
+
+name: dgdvyv
+Address:
+ streetAddress: dfh   | city: erfby   | State: fgy

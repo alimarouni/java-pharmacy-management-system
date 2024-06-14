@@ -1,0 +1,7 @@
+Mdicines details:
+
+medicine 1: name: panadol
+quantity: 44
+price: $44.00
+barcode:9108549
+_________________________________________________________________________

@@ -1,0 +1,6 @@
+Prescriptionmedication detials:
+
+doctor name: dvfc
+timing: vrftv
+medicine name: panadol
+medicine price: $33.00
